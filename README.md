@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Owen 👋
+
+I'm a data analyst and problem solver at [Proc9](https://proc9.com/). My github mainly consists of my data analysis projects using #rstats.
+
+Please get in touch if you have any questions about my work or would like to just say hi.
+
+- [Blog](https://otstats.github.io)
+- [LinkedIn](https://www.linkedin.com/in/owen-thompson/)
+- [Twitter](https://twitter.com/otstats)
 
 <!--
 **OTStats/otstats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
