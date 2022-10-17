@@ -1,6 +1,6 @@
 ### Hi there, I'm Owen 👋
 
-I'm a data analyst and problem solver at [Proc9](https://proc9.com/). My github mainly consists of my data analysis projects using #rstats.
+I'm a data analyst and problem solver at [PROC9](https://proc9.com/). My github mainly consists of my data analysis projects using #rstats.
 
 Please get in touch if you have any questions about my work or would like to just say hi.
 
