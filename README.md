@@ -6,7 +6,6 @@ Please get in touch if you have any questions about my work or would like to jus
 
 - [Blog](https://otstats.github.io)
 - [LinkedIn](https://www.linkedin.com/in/owen-thompson/)
-- [Twitter](https://twitter.com/otstats)
 
 <!--
 **OTStats/otstats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
